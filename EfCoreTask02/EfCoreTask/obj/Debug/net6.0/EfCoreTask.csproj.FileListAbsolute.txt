@@ -1,0 +1,175 @@
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\EfCoreTask.exe
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\EfCoreTask.deps.json
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\EfCoreTask.runtimeconfig.json
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\EfCoreTask.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\EfCoreTask.pdb
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.csproj.AssemblyReference.cache
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.AssemblyInfoInputs.cache
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.AssemblyInfo.cs
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.csproj.Up2Date
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\obj\Debug\net6.0\refint\EfCoreTask.dll
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.pdb
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.genruntimeconfig.cache
+C:\Users\Ahmed ashraf\Desktop\مهام الاسبوع\week02 EF\ef core practice\EfCoreTask\EfCoreTask\obj\Debug\net6.0\ref\EfCoreTask.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\EfCoreTask.exe
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\EfCoreTask.deps.json
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\EfCoreTask.runtimeconfig.json
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\EfCoreTask.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\EfCoreTask.pdb
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.csproj.AssemblyReference.cache
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.AssemblyInfoInputs.cache
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.AssemblyInfo.cs
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.csproj.Up2Date
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\obj\Debug\net6.0\refint\EfCoreTask.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.pdb
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\obj\Debug\net6.0\EfCoreTask.genruntimeconfig.cache
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask\EfCoreTask\obj\Debug\net6.0\ref\EfCoreTask.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\EfCoreTask.exe
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\EfCoreTask.deps.json
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\EfCoreTask.runtimeconfig.json
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\EfCoreTask.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\EfCoreTask.pdb
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\obj\Debug\net6.0\EfCoreTask.csproj.AssemblyReference.cache
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\obj\Debug\net6.0\EfCoreTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\obj\Debug\net6.0\EfCoreTask.AssemblyInfoInputs.cache
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\obj\Debug\net6.0\EfCoreTask.AssemblyInfo.cs
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\obj\Debug\net6.0\EfCoreTask.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\obj\Debug\net6.0\EfCoreTask.sourcelink.json
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\obj\Debug\net6.0\EfCoreTask.csproj.Up2Date
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\obj\Debug\net6.0\EfCoreTask.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\obj\Debug\net6.0\refint\EfCoreTask.dll
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\obj\Debug\net6.0\EfCoreTask.pdb
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\obj\Debug\net6.0\EfCoreTask.genruntimeconfig.cache
+C:\Users\Ahmed ashraf\Desktop\EfCoreTask\EfCoreTask02\EfCoreTask\obj\Debug\net6.0\ref\EfCoreTask.dll
